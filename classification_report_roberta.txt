@@ -10,3 +10,8 @@
     accuracy                         0.9245      2000
    macro avg     0.8865    0.8842    0.8825      2000
 weighted avg     0.9267    0.9245    0.9246      2000
+
+Accuracy    ----  0.9245
+Precision   ----  0.9267
+Recall      ----  0.9245
+F1-score    ----  0.9246
