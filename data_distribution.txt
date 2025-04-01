@@ -1,0 +1,57 @@
+Total samples - 20000
+
+Train Set:
+Total Samples: 16000
+Class 0: 4666 samples (29.16%)
+Class 1: 5362 samples (33.51%)
+Class 2: 1304 samples (8.15%)
+Class 3: 2159 samples (13.49%)
+Class 4: 1937 samples (12.11%)
+Class 5: 572 samples (3.57%)
+
+Validation Set:
+Total Samples: 2000
+Class 0: 550 samples (27.50%)
+Class 1: 704 samples (35.20%)
+Class 2: 178 samples (8.90%)
+Class 3: 275 samples (13.75%)
+Class 4: 212 samples (10.60%)
+Class 5: 81 samples (4.05%)
+
+Test Set:
+Total Samples: 2000
+Class 0: 581 samples (29.05%)
+Class 1: 695 samples (34.75%)
+Class 2: 159 samples (7.95%)
+Class 3: 275 samples (13.75%)
+Class 4: 224 samples (11.20%)
+Class 5: 66 samples (3.30%)
+
+Samples from trainset are taken to finetune the pretrained models.
+
+bert_finetuning_dataset:
+Total Samples: 8000
+Class 0: 2354 samples (29.43%)
+Class 1: 2697 samples (33.71%)
+Class 2: 650 samples (8.12%)
+Class 3: 1071 samples (13.39%)
+Class 4: 956 samples (11.95%)
+Class 5: 272 samples (3.40%)
+
+roberta_finetuning_dataset:
+Total Samples: 8000
+Class 0: 2343 samples (29.29%)
+Class 1: 2716 samples (33.95%)
+Class 2: 649 samples (8.11%)
+Class 3: 1081 samples (13.51%)
+Class 4: 937 samples (11.71%)
+Class 5: 274 samples (3.43%)
+
+xlnet_finetuning_dataset:
+Total Samples: 8000
+Class 0: 2345 samples (29.31%)
+Class 1: 2708 samples (33.85%)
+Class 2: 668 samples (8.35%)
+Class 3: 1068 samples (13.35%)
+Class 4: 928 samples (11.60%)
+Class 5: 283 samples (3.54%)
